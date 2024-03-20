@@ -7,4 +7,4 @@
 
 brandName = input("What's the name for your brand? ")
 slogan = input("What's the slogan? ")
-print("\"" + brandName + "\"" "\n" + slogan)
+print('"' + brandName + '"' "\n" + slogan)
